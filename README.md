@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a project at Life360 to connect family members
+- 🔭 I’m currently working on a fun project at Life360 to connect family members
 
 - 🌱 I’m currently learning the ins and outs of Kubernetes
 
