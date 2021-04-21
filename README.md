@@ -8,6 +8,11 @@
   * I was once asked by a co-founder's father in law to help him with his burial plans. (awkward 😬)
   * Helped give CPR to the co-founder's dog in the back seat of a car.  Sad story 😢
 
+- ⭐️ Technologies:
+  * JavaScript, NodeJS, TypeScript, React, PHP
+  * MySQL, DynamoDB, SQS, RabbitMQ, Redis, Memcached
+  * Kubernetes
+
 <!--
 **jackfurr/jackfurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
