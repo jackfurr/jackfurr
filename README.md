@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a fun project at Life360 to connect family members
 
-- 🌱 I’m currently learning the ins and outs of Kubernetes
+- 🌱 I’m currently learning React with Kent C. Dodds @ https://epicreact.dev/
 
 - ⚡ Fun fact: 
   * I was once asked by a co-founder's father in law to help him with his burial plans. (awkward 😬)
