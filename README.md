@@ -3,11 +3,10 @@
 - 🔭 I’m currently working on a fun project at Life360 to connect family members
 
 - ⚡ Fun fact: 
-  * I was once asked by a co-founder's father in law to help him with his burial plans. (awkward 😬)
-  * Helped give CPR to the co-founder's dog in the back seat of a car.  Sad story 😢
+  * Helped give CPR to a co-founder's dog in the back seat of a car.  Sad story 😢
 
 - ⭐️ Technologies:
-  * JavaScript, NodeJS, TypeScript, React, PHP
+  * JavaScript, NodeJS, TypeScript, Python, React, PHP
   * MySQL, DynamoDB, SQS, RabbitMQ, Redis, Memcached
   * Kubernetes, Terraform, AWS, GCP
 
